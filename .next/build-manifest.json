@@ -1,0 +1,47 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-42372ed130431b0a.js"
+  ],
+  "devFiles": [],
+  "lowPriorityFiles": [
+    "static/r-nGzsHdpKLc64og_9-mq/_buildManifest.js",
+    "static/r-nGzsHdpKLc64og_9-mq/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "rootMainFilesTree": {},
+  "pages": {
+    "/": [
+      "static/chunks/webpack-216711ff2be973ac.js",
+      "static/chunks/framework-292291387d6b2e39.js",
+      "static/chunks/main-856c916779da1a0e.js",
+      "static/chunks/pages/index-a8d300e37cd533bb.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-216711ff2be973ac.js",
+      "static/chunks/framework-292291387d6b2e39.js",
+      "static/chunks/main-856c916779da1a0e.js",
+      "static/css/9a02c8cbf5d417f8.css",
+      "static/chunks/pages/_app-9bf90f5b6de80c6f.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-216711ff2be973ac.js",
+      "static/chunks/framework-292291387d6b2e39.js",
+      "static/chunks/main-856c916779da1a0e.js",
+      "static/chunks/pages/_error-de1c64435fe2d9b7.js"
+    ],
+    "/moves": [
+      "static/chunks/webpack-216711ff2be973ac.js",
+      "static/chunks/framework-292291387d6b2e39.js",
+      "static/chunks/main-856c916779da1a0e.js",
+      "static/chunks/587-b47abbf7833694b8.js",
+      "static/chunks/pages/moves-cdc27a2fe3aec036.js"
+    ],
+    "/movies": [
+      "static/chunks/webpack-216711ff2be973ac.js",
+      "static/chunks/framework-292291387d6b2e39.js",
+      "static/chunks/main-856c916779da1a0e.js",
+      "static/chunks/587-b47abbf7833694b8.js",
+      "static/chunks/pages/movies-99931a50009e0a82.js"
+    ]
+  }
+}
